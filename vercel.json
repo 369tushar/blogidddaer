@@ -1,0 +1,9 @@
+{
+	"redirects":[
+	{
+		"Source":"/post/:slug*",
+		"destination":"https://blogzidar.com/:slug*",
+		"permanent":true
+	}
+	]
+}
